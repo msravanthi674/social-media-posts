@@ -1,7 +1,6 @@
 # src/generator.py
 
 import os
-from dotenv import load_dotenv # type: ignore
 from mistralai import Mistral # type: ignore
 
 # Load API key
@@ -74,3 +73,4 @@ def generate_post(
     )
 
     return response.choices[0].message.content
+
