@@ -2,8 +2,6 @@
 
 Transform your blogs, newsletters, or articles into **platform-ready social media posts** in seconds using **Mistral AI** 🚀  
 
-👉 **Live Demo:** [social-media-posts-7.streamlit.app](https://social-media-posts-7.streamlit.app/)
-
 [![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Mistral AI](https://img.shields.io/badge/AI-Mistral%20API-8A2BE2?logo=openai&logoColor=white)](https://mistral.ai/)
