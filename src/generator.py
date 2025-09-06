@@ -1,6 +1,7 @@
 # src/generator.py
 
 import os
+from dotenv import load_dotenv
 from mistralai import Mistral # type: ignore
 
 # Load API key
