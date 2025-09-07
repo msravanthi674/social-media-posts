@@ -57,8 +57,8 @@ cd social-posts
 ```
 2. Create & activate environment (using conda)
 ```bash
-conda create -n social-post python=3.10 -y
-conda activate social-post
+conda create -n social-posts python=3.9 -y
+conda activate social-posts
 ```
 3. Install dependencies
 ```bash
